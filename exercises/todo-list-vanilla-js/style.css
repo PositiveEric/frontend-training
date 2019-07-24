@@ -70,10 +70,10 @@ li {
     margin-bottom: 10px;
     background: #4EB9CD;
     transition: all 0.75s ease;
-    -webkit-transition: all 0.5s ease;
-    -moz-transition: all 0.5s ease;
-    -ms-transition: all 0.5s ease;
-    -o-transition: all 0.5 ease;
+    -webkit-transition: all 1 ease;
+    -moz-transition: all 1 ease;
+    -ms-transition: all 1 ease;
+    -o-transition: all 1 ease;
 }
 
 li:hover {
